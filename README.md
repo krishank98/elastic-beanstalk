@@ -1,6 +1,6 @@
 # Deploy to AWS Elastic Beanstalk with Node.js & MongoDB
 
-### This project is for use on AWS Elastic Beanstalk.
+### This project is for use on AWS Elastic Beanstalk..
 
 [Contact me](https://www.aaronwht.com) if you run into problems using this repo or tutorial.
 
